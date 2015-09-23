@@ -1,0 +1,1 @@
+Learning how to make and use the Android SeekBar. See this tutorial: http://javatechig.com/android/android-seekbar-example
